@@ -1,2 +1,2 @@
-# 2017-Text-Analyser
+# text-analyser
 Final Project Programming I
